@@ -1,0 +1,22 @@
+body {
+	background-color: brown;
+	font-family: 'Calibri';
+	text-align: center;
+}
+button {
+	background-color: white;
+	padding: 20px;
+	color: brown;
+	font-size: 20px;
+	border: none;
+	border-radius: 15px;
+}
+ul {
+	color: white;
+	font-size: 55px;
+	list-style-type: none;
+}
+h1 {
+	font-size: 80px;
+	color: yellow;
+}
