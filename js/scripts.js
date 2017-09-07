@@ -17,4 +17,4 @@ add.addEventListener('click', function(e) {
 
 //dodawanie elementu do zmiennej "list" na końcu:
     list.appendChild(element);
-})
+});
