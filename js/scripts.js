@@ -13,7 +13,7 @@ add.addEventListener('click', function(e) {
     var element = document.createElement('li');
 
 //przypisanie dla utworzonych elementów "li" tekstu 'Item' oraz kolejnej liczby: 
-    element.innerText = 'Item ' + ((document.getElementsByTagName('li').length -1) + 1);
+    element.innerText = 'Item ' + ((document.getElementsByTagName('li').length));
 
 //dodawanie elementu do zmiennej "list" na końcu:
     list.appendChild(element);
